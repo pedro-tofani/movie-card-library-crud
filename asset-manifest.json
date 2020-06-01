@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-card-library-crud/static/css/main.5f361e03.chunk.css",
+    "main.js": "/movie-card-library-crud/static/js/main.f5faa6bd.chunk.js",
+    "main.js.map": "/movie-card-library-crud/static/js/main.f5faa6bd.chunk.js.map",
+    "runtime-main.js": "/movie-card-library-crud/static/js/runtime-main.f601a7b9.js",
+    "runtime-main.js.map": "/movie-card-library-crud/static/js/runtime-main.f601a7b9.js.map",
+    "static/js/2.b05fecbb.chunk.js": "/movie-card-library-crud/static/js/2.b05fecbb.chunk.js",
+    "static/js/2.b05fecbb.chunk.js.map": "/movie-card-library-crud/static/js/2.b05fecbb.chunk.js.map",
+    "index.html": "/movie-card-library-crud/index.html",
+    "precache-manifest.e3e1250fde5f1795a48f66698eadedaf.js": "/movie-card-library-crud/precache-manifest.e3e1250fde5f1795a48f66698eadedaf.js",
+    "service-worker.js": "/movie-card-library-crud/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/movie-card-library-crud/static/css/main.5f361e03.chunk.css.map",
+    "static/media/logo.svg": "/movie-card-library-crud/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f601a7b9.js",
+    "static/js/2.b05fecbb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f5faa6bd.chunk.js"
+  ]
+}
