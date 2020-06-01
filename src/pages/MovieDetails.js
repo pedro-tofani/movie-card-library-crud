@@ -39,7 +39,7 @@ class MovieDetails extends Component {
         <div className="col s12 m7">
           <div className="card">
             <div className="card-image">
-              <img alt="Movie Cover" src={`../${imagePath}`} />
+              <img alt="Movie Cover" src={`${imagePath}`} />
               <span className="card-title">{title}</span>
             </div>
             <div className="card-content">

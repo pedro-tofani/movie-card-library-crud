@@ -9,8 +9,8 @@ import EditMovie from './pages/EditMovie';
 
 function App() {
   return (
-    <HashRouter basename='/movie-card-library-crud/'>
-      <Router>
+    <Router>
+      <HashRouter basename='/movie-card-library-crud/'>
         <Switch>
           <Route exact path="/" component={MovieList} />
           <Route path="/movies/:id/edit" component={EditMovie} />
@@ -18,8 +18,8 @@ function App() {
           <Route path="/movies/:id" component={MovieDetails} />
           <Route component={Notfound} />
         </Switch>
-      </Router>
-    </HashRouter>
+      </HashRouter>
+    </Router>
   );
 }
 
